@@ -1,0 +1,2 @@
+# ideco_sym
+ideco
